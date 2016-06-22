@@ -29,6 +29,6 @@
     "test-infra"
   ],
   "dependencies": {
-    "jquery": "~2.21"
+    "jquery": "~2.2.4"
   }
 }
